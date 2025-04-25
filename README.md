@@ -42,13 +42,13 @@ Python_Study/
 - Git + GitHub
 
 ---
-
+<!--
 ## 📦 예제 파일
 
 [Jupyter 예제 보기 ➡️ Python_Study_Example.ipynb](./Python_Study_Example.ipynb)
 
 ---
-
+-->
 ## 🧑‍💻 작성자
 
 | 이름 | 조민주 |
